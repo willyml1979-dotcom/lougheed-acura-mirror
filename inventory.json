@@ -1,6 +1,6 @@
 {
   "dealership": "Lougheed Acura",
-  "generated_at": "2026-10-25T20:04:17",
+  "generated_at": "2026-10-26T04:58:08",
   "vehicle_count": 100,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -378,7 +378,7 @@
       "make": "Acura",
       "model": "RDX Platinum Elite ACURA CERTIFIED 7YR/ 160000 KMS WARRANTY!!in Coquitlam, near Vancouver",
       "condition": "used",
-      "price": 39990.0,
+      "price": 39690.0,
       "price_currency": "CAD"
     },
     {
@@ -389,7 +389,7 @@
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 39990.0,
+      "price": 39690.0,
       "price_currency": "CAD"
     },
     {
@@ -441,7 +441,7 @@
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 45690.0,
+      "price": 44990.0,
       "price_currency": "CAD"
     },
     {
@@ -452,7 +452,7 @@
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 45690.0,
+      "price": 44990.0,
       "price_currency": "CAD"
     },
     {
@@ -483,7 +483,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 20790.0,
+      "price": 20490.0,
       "price_currency": "CAD"
     },
     {
@@ -494,7 +494,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 20790.0,
+      "price": 20490.0,
       "price_currency": "CAD"
     },
     {
@@ -627,7 +627,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 40590.0,
+      "price": 39690.0,
       "price_currency": "CAD"
     },
     {
@@ -638,7 +638,7 @@
       "make": "Honda",
       "model": "CR-V Hybrid",
       "condition": "used",
-      "price": 40590.0,
+      "price": 39690.0,
       "price_currency": "CAD"
     },
     {

@@ -1,6 +1,6 @@
 {
   "dealership": "Lougheed Acura",
-  "generated_at": "2026-11-17T00:23:55",
+  "generated_at": "2026-11-17T00:48:27",
   "vehicle_count": 98,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -677,26 +677,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Acura ADX Platinum Elite Ain Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/c787f4e53908.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "ADX Platinum Elite Ain Coquitlam, near Vancouver",
-      "condition": "new",
-      "price": 56900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura ADX A-Specin Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/fae50f61e654.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "ADX A-Specin Coquitlam, near Vancouver",
-      "condition": "new",
-      "price": 53001.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Acura ADX A-Specin Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/5cbf474a93a8.html",
       "year": 2026,
@@ -727,8 +707,118 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Acura ADX A-Specin Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/50086a09d498.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-Specin Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 52401.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX A-Specin Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/90cd893e460a.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-Specin Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 53001.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Acura ADX Platinum Elite Ain Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/1e51a8269350.html",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/23c98aabda55.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 56900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/b4b074f9cbd6.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 56900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/f07509aff5bb.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 56900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX A-Specin Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/271d28cdcb85.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-Specin Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 52401.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/2bba04fac3e5.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 56900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/17ffb6a96c12.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 56900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/1ec7c214e205.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 56900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX A-Specin Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/6149349d69d9.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-Specin Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 52401.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX A-Specin Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/e188c0190d0a.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-Specin Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 52401.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/bf924e9f4ee3.html",
       "year": 2026,
       "make": "Acura",
       "model": "ADX Platinum Elite Ain Coquitlam, near Vancouver",
@@ -738,7 +828,67 @@
     },
     {
       "name": "New 2026 Acura ADX Platinum Elite Ain Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/00f64e6a26bb.html",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/f360d348fb7f.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 56901.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX A-Specin Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/93ea496801db.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-Specin Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 52401.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX A-Specin Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/6ab1d8799b1e.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-Specin Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 52401.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/64b2fdb0ed63.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 56900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX A-Specin Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/6abf95633155.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-Specin Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 53001.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX A-Specin Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/cff9039a08cc.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-Specin Coquitlam, near Vancouver",
+      "condition": "new",
+      "price": 53001.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Acura ADX Platinum Elite Ain Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/94ff8d0042c3.html",
       "year": 2026,
       "make": "Acura",
       "model": "ADX Platinum Elite Ain Coquitlam, near Vancouver",
@@ -748,22 +898,12 @@
     },
     {
       "name": "New 2026 Acura Integra A-Specin Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/ae0019af92ef.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "Integra",
-      "condition": "new",
-      "price": 49496.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura Integra A-Specin Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/e0863e8537ae.html",
       "year": 2026,
       "make": "Acura",
       "model": "Integra",
       "condition": "new",
-      "price": 49496.0,
+      "price": 50996.0,
       "price_currency": "CAD"
     },
     {
@@ -773,152 +913,22 @@
       "make": "Acura",
       "model": "Integra",
       "condition": "new",
-      "price": 49496.0,
+      "price": 50996.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Acura MDX A-Specin Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/f0fc107e8945.html",
+      "name": "New 2026 Acura RDXin Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/376368c5d7b4.html",
       "year": 2026,
       "make": "Acura",
-      "model": "MDX",
+      "model": "RDXin Coquitlam, near Vancouver",
       "condition": "new",
-      "price": 74196.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura MDX Platinum Elite Ain Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/88d8d1288567.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "new",
-      "price": 79596.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura MDX Platinum Elite Ain Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/336e6ec97835.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "new",
-      "price": 79596.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura MDX A-Specin Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/40099d4f9094.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "new",
-      "price": 72801.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura MDX Platinum Elite Ain Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/5474d330ffc0.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "new",
-      "price": 79596.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura MDX A-Specin Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/13ad2046476b.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "new",
-      "price": 72801.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura MDX A-Specin Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/f74394e4a83b.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "new",
-      "price": 72801.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura MDX Platinum Elite Ain Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/d8c72017ab7b.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "new",
-      "price": 79596.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura MDX Platinum Elite Ain Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/591c85569259.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "new",
-      "price": 79596.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura MDX A-Specin Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/9615618e9e49.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "new",
-      "price": 72801.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura MDX A-Specin Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/eee9cf14a32e.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "new",
-      "price": 73401.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura MDX A-Specin Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/fc9462ea55eb.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "new",
-      "price": 72801.0,
+      "price": 54021.0,
       "price_currency": "CAD"
     },
     {
       "name": "New 2026 Acura RDX Platinum Elite Ain Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/2302180ee988.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "new",
-      "price": 62861.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura RDX A-Specin Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/91329ee39798.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "new",
-      "price": 57861.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura RDX Platinum Elite Ain Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/02dea449fd0d.html",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/b4b685bc237f.html",
       "year": 2026,
       "make": "Acura",
       "model": "RDX",
@@ -929,16 +939,6 @@
     {
       "name": "New 2026 Acura RDX Platinum Elite Ain Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/6a898ad46648.html",
-      "year": 2026,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "new",
-      "price": 63646.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Acura RDX Platinum Elite Ain Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/new/db43303eaf7a.html",
       "year": 2026,
       "make": "Acura",
       "model": "RDX",

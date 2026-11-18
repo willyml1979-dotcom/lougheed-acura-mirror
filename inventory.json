@@ -1,7 +1,7 @@
 {
   "dealership": "Lougheed Acura",
-  "generated_at": "2026-11-17T00:48:27",
-  "vehicle_count": 98,
+  "generated_at": "2026-11-17T21:05:27",
+  "vehicle_count": 97,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -20,10 +20,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Honda Civic Sedan 2022 for salein Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/a6768410e21e.html",
+      "name": "Acura RDX 2021 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/f3f802771af8.html",
       "condition": "used",
-      "price": 24690.0,
+      "price": 35690.0,
       "price_currency": "CAD"
     },
     {
@@ -80,6 +80,48 @@
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/49e7e8c86f63.html",
       "condition": "used",
       "price": 39990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura Integra 2025 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/70d23bfaea15.html",
+      "condition": "used",
+      "price": 38690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura MDX 2025 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/93bf81ec556b.html",
+      "condition": "used",
+      "price": 60690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura RDX 2025 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/f8d15e783ee5.html",
+      "condition": "used",
+      "price": 50480.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Mustang 2025 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/cd8854bd2b24.html",
+      "condition": "used",
+      "price": 41990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Transit Cargo Van 2025 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/14baca385492.html",
+      "condition": "used",
+      "price": 48690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM ProMaster Cargo Van 2025 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/66840d3f77cb.html",
+      "condition": "used",
+      "price": 47690.0,
       "price_currency": "CAD"
     },
     {
@@ -155,17 +197,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Acura RDX ",
-      "vin": "5J8TC2H6XML809942",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/f3f802771af8.html",
-      "year": 2021,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 35690.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Acura RDX Platinum Elite ACURA CERTIFIED 7YR/ 160000 KMS WARRANTY!!in Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/47715e630423.html",
       "year": 2022,
@@ -184,16 +215,6 @@
       "model": "RDX",
       "condition": "used",
       "price": 39690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Honda Civic Sedan Touringin Coquitlam, near Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/31439e4aeec2.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 24690.0,
       "price_currency": "CAD"
     },
     {
@@ -307,6 +328,16 @@
       "model": "RDX",
       "condition": "used",
       "price": 45990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Acura RDX Platinum Elite ACURA CERTIFIED 7YR/ 160000 KMS WARRANTY!!in Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/2167ce70bf24.html",
+      "year": 2024,
+      "make": "Acura",
+      "model": "RDX Platinum Elite ACURA CERTIFIED 7YR/ 160000 KMS WARRANTY!!in Coquitlam, near Vancouver",
+      "condition": "used",
+      "price": 51690.0,
       "price_currency": "CAD"
     },
     {
@@ -441,28 +472,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Acura Integra ",
-      "vin": "19UDE4H68SA800157",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/70d23bfaea15.html",
-      "year": 2025,
-      "make": "Acura",
-      "model": "Integra",
-      "condition": "used",
-      "price": 38690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Acura MDX ",
-      "vin": "5J8YE1H03SL800406",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/93bf81ec556b.html",
-      "year": 2025,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "used",
-      "price": 59690.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Acura RDX A-Spec ACURA CERTIFIED 7YR/ 160000 KMS WARRANTY!!in Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/9fc867b7fd43.html",
       "year": 2025,
@@ -503,17 +512,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Acura RDX ",
-      "vin": "5J8TC2H82SL803082",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/f8d15e783ee5.html",
-      "year": 2025,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 54690.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Ford Mustang Ecoboost Premiumin Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/d861acf6a4f7.html",
       "year": 2025,
@@ -524,30 +522,8 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Mustang ",
-      "vin": "1FAGP8UH9S5117385",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/cd8854bd2b24.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Mustang",
-      "condition": "used",
-      "price": 41990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Ford Transit Cargo Van T250 Rwd Low Rfin Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/0a289ecd90c0.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Transit Cargo",
-      "condition": "used",
-      "price": 48690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Transit Cargo Van ",
-      "vin": "1FTBR1Y82SKB17326",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/14baca385492.html",
       "year": 2025,
       "make": "Ford",
       "model": "Transit Cargo",
@@ -572,18 +548,7 @@
       "make": "RAM",
       "model": "ProMaster",
       "condition": "used",
-      "price": 51990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 RAM ProMaster Cargo Van ",
-      "vin": "3C6LRVCG5SE540650",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/66840d3f77cb.html",
-      "year": 2025,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "used",
-      "price": 47690.0,
+      "price": 49790.0,
       "price_currency": "CAD"
     },
     {

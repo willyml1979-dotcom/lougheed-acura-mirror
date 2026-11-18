@@ -1,6 +1,6 @@
 # Lougheed Acura
 
- dealership in Coquitlam. AI-readable inventory mirror, about 98 vehicles.
+ dealership in Coquitlam. AI-readable inventory mirror, about 97 vehicles.
 
 - Official website: https://www.lougheedacura.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/

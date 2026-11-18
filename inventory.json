@@ -1,6 +1,6 @@
 {
   "dealership": "Lougheed Acura",
-  "generated_at": "2026-11-18T06:58:36",
+  "generated_at": "2026-11-18T15:09:32",
   "vehicle_count": 97,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -52,6 +52,13 @@
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/404afa311c61.html",
       "condition": "used",
       "price": 47690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura RDX 2023 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/2a51d8f74227.html",
+      "condition": "used",
+      "price": 44990.0,
       "price_currency": "CAD"
     },
     {
@@ -264,17 +271,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Acura RDX ",
-      "vin": "5J8TC2H85PL802399",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/2a51d8f74227.html",
-      "year": 2023,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 44990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Honda CR-V Hybrid Touringin Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/2cfaa76e855c.html",
       "year": 2023,
@@ -345,11 +341,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Acura RDX A-Specin Coquitlam, near Vancouver",
+      "name": "2024 Acura RDX A-Spec ACURA CERTIFIED 7YR/ 160000 KMS WARRANTY!!!in Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/3c385efc2428.html",
       "year": 2024,
       "make": "Acura",
-      "model": "RDX",
+      "model": "RDX A-Spec ACURA CERTIFIED 7YR/ 160000 KMS WARRANTY!!!in Coquitlam, near Vancouver",
       "condition": "used",
       "price": 45990.0,
       "price_currency": "CAD"
@@ -465,11 +461,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Acura RDX A-Specin Coquitlam, near Vancouver",
+      "name": "2025 Acura RDX A-Spec ACURA CERTIFIED 7YR/ 160000 KMS WARRANTY!!in Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/c269ff8129a2.html",
       "year": 2025,
       "make": "Acura",
-      "model": "RDX",
+      "model": "RDX A-Spec ACURA CERTIFIED 7YR/ 160000 KMS WARRANTY!!in Coquitlam, near Vancouver",
       "condition": "used",
       "price": 50690.0,
       "price_currency": "CAD"

@@ -1,15 +1,29 @@
 {
   "dealership": "Lougheed Acura",
-  "generated_at": "2026-11-17T21:20:39",
+  "generated_at": "2026-11-18T06:43:27",
   "vehicle_count": 97,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
+      "name": "Acura TLX 2015 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/63d1ad2b20cf.html",
+      "condition": "used",
+      "price": 17990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Audi A3 2016 for salein Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/f090d10ac6f1.html",
       "condition": "used",
       "price": 11690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Mustang 2016 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/3f0d85f91170.html",
+      "condition": "used",
+      "price": 34990.0,
       "price_currency": "CAD"
     },
     {
@@ -24,6 +38,27 @@
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/f3f802771af8.html",
       "condition": "used",
       "price": 35690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura RDX 2022 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/63d0aa6ef01a.html",
+      "condition": "used",
+      "price": 39690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura MDX 2023 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/404afa311c61.html",
+      "condition": "used",
+      "price": 47690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V Hybrid 2023 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/210ba8569828.html",
+      "condition": "used",
+      "price": 38990.0,
       "price_currency": "CAD"
     },
     {
@@ -52,6 +87,13 @@
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/b3a3f4399b14.html",
       "condition": "used",
       "price": 21990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V Hybrid 2024 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/45d16f6381bb.html",
+      "condition": "used",
+      "price": 39690.0,
       "price_currency": "CAD"
     },
     {
@@ -125,24 +167,20 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Civic Hybrid 2026 for salein Coquitlam, near Vancouver",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/2bd94d08db7c.html",
+      "condition": "used",
+      "price": 37690.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2015 Acura TLX V6 Elitein Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/3f7ce864fa93.html",
       "year": 2015,
       "make": "Acura",
       "model": "TLX",
       "condition": "used",
-      "price": 18690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Acura TLX ",
-      "vin": "19UUB3F74FA801276",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/63d1ad2b20cf.html",
-      "year": 2015,
-      "make": "Acura",
-      "model": "TLX",
-      "condition": "used",
-      "price": 18690.0,
+      "price": 17990.0,
       "price_currency": "CAD"
     },
     {
@@ -158,17 +196,6 @@
     {
       "name": "2016 Ford Mustang Gt Premiumin Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/4796a68468d2.html",
-      "year": 2016,
-      "make": "Ford",
-      "model": "Mustang",
-      "condition": "used",
-      "price": 34990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Ford Mustang ",
-      "vin": "1FATP8FF6G5296874",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/3f0d85f91170.html",
       "year": 2016,
       "make": "Ford",
       "model": "Mustang",
@@ -207,33 +234,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Acura RDX ",
-      "vin": "5J8TC2H81NL804051",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/63d0aa6ef01a.html",
-      "year": 2022,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 39690.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Acura MDX Tech ACURA CERTIFIED 7YR/ 160000 KMS WARRANTY!!!in Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/0ee649aea0fc.html",
       "year": 2023,
       "make": "Acura",
       "model": "MDX Tech ACURA CERTIFIED 7YR/ 160000 KMS WARRANTY!!!in Coquitlam, near Vancouver",
-      "condition": "used",
-      "price": 47690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Acura MDX ",
-      "vin": "5J8YE1H45PL800627",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/404afa311c61.html",
-      "year": 2023,
-      "make": "Acura",
-      "model": "MDX",
       "condition": "used",
       "price": 47690.0,
       "price_currency": "CAD"
@@ -275,17 +280,6 @@
       "year": 2023,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used",
-      "price": 38990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H98PH200208",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/210ba8569828.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
       "condition": "used",
       "price": 38990.0,
       "price_currency": "CAD"
@@ -386,17 +380,6 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used",
-      "price": 39690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H75RH220112",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/45d16f6381bb.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
       "condition": "used",
       "price": 39690.0,
       "price_currency": "CAD"
@@ -914,17 +897,6 @@
     {
       "name": "2026 Honda Civic Hybrid Sportin Coquitlam, near Vancouver",
       "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/1b29c6e417ea.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "used",
-      "price": 37690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Hybrid ",
-      "vin": "2HGFE4F85TH001758",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-acura-mirror/used/2bd94d08db7c.html",
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hybrid",
